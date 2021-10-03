@@ -1,0 +1,14 @@
+#my-marquee{
+    background-color: #0362fc;
+    color: white;
+    font-size: 20px;
+    
+}
+.my-navbar{
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+body{
+    text-align: center;
+}
